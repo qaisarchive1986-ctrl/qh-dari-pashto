@@ -1,2 +1,5 @@
-# qh-dari-pashto
-QH VisionX Response – A smart, secure and offline-capable emergency response platform for real-time mapping, GPS location, incident management and field coordination.
+qh-dari-pashto/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
